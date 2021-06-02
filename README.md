@@ -22,6 +22,10 @@ We decided to split the work in three module :
 You can found each program in the associated folder.
 The main code of the robot is in the `main` folder of arduino folder.
 
+## Présentation
+
+You read the report in this file : `Lazarus_Project-group3.pdf`
+
 ## Video
 A quick presentation of the project can be founded at that link.
 https://youtu.be/nN9yWv9Wkwc
