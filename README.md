@@ -1,5 +1,16 @@
 # Lazarus robot project
 
+## Introduction
+
+This robotic project was a university project at UPSSITECH in 2021.
+We worked in team of 7 on a robot which is able to map a room.
+The team was composed of five french student an two german student who worked from home.
+
+That was a very challenging project by th organization. It was a real pleasure to work on this project.
+
+The team : Andreas Müller, Mathias Bossaerts, Davy Duvivier, Lennart Petsch, Baptiste Pomarelle, Martial Bailly and Théo Trafny.
+
+## Description
 This robot allow you to map a room with manual control or with an automatic mode.
 We use 4 motors wich are connected to 2 outputs motor controller.
 One output for each side of the robot.
